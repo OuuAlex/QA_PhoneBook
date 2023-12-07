@@ -1,0 +1,27 @@
+3694 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addContactPositiveTest with data: []
+7826 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addContactPositiveTest
+7826 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+7830 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver, Kan, 1234567890, kan@gm.com, Berlin, goalkeeper]
+21679 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+21681 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+21682 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver1, Kan, 1234567891, kan1@gm.com, Berlin, goalkeeper]
+35311 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+35311 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+35312 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver2, Kan, 1234567892, kan2@gm.com, Berlin, goalkeeper]
+48913 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+48913 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+48915 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test existedUserRegistrationNegativeTest with data: []
+61912 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: existedUserRegistrationNegativeTest
+61912 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+61913 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test isHomeComponentPresentTest with data: []
+72150 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: isHomeComponentPresentTest
+72151 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+72151 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test loginNegativeWithoutEmailTest with data: []
+73346 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: loginNegativeWithoutEmailTest
+73346 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+73347 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test loginPositiveTest with data: []
+74304 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: loginPositiveTest
+74304 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+74306 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test removeContactPositiveTest with data: []
+88954 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: removeContactPositiveTest
+88954 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================

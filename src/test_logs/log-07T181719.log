@@ -1,0 +1,12 @@
+540  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\alexo\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2561 [main] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver, Kan, 1234567890, kan@gm.com, Berlin, goalkeeper]
+5126 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+5126 [main] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+5127 [main] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver1, Kan, 1234567891, kan1@gm.com, Berlin, goalkeeper]
+16897 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+16897 [main] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+16899 [main] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver2, Kan, 1234567892, kan2@gm.com, Berlin, goalkeeper]
+28884 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+28884 [main] INFO  com.ait.phonebook.tests.TestBase -- ===================================================

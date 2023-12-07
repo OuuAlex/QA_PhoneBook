@@ -1,0 +1,6 @@
+518  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\alexo\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2197 [main] INFO  com.ait.phonebook.tests.TestBase -- Start test loginPositiveTest with data: []
+12670 [main] ERROR com.ait.phonebook.tests.TestBase -- FAILED: loginPositiveTest Screenshot -> C:\GitHub\QA_PhoneBook\screenshots\screen1701974127788.png
+12671 [main] INFO  com.ait.phonebook.tests.TestBase -- ===========================================

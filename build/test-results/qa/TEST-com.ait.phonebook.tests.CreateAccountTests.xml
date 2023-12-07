@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.phonebook.tests.CreateAccountTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-06T11:10:01" hostname="LAPTOP-7P90M4Q6" time="1.236">
+  <properties/>
+  <testcase name="existedUserRegistrationNegativeTest" classname="com.ait.phonebook.tests.CreateAccountTests" time="1.236"/>
+  <system-out><![CDATA[12:09:50.044 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test existedUserRegistrationNegativeTest with data: []
+12:10:03.041 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: existedUserRegistrationNegativeTest
+12:10:03.041 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+]]></system-out>
+  <system-err><![CDATA[console.warn: LoginRecipes: "Falling back to a synchronous message for: https://telranedu.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://telranedu.web.app."
+]]></system-err>
+</testsuite>

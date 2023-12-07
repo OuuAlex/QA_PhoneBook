@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.phonebook.tests.AddContactTests" tests="5" skipped="1" failures="0" errors="0" timestamp="2023-12-06T11:09:05" hostname="LAPTOP-7P90M4Q6" time="43.638">
+  <properties/>
+  <testcase name="addContactPositiveTest" classname="com.ait.phonebook.tests.AddContactTests" time="2.693"/>
+  <testcase name="addNewContactFromDataProviderCSWPositiveTest" classname="com.ait.phonebook.tests.AddContactTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addNewContactFromDataProviderPositiveTest[0](Oliver, Kan, 1234567890, kan@gm.com, Berlin, goalkeeper)" classname="com.ait.phonebook.tests.AddContactTests" time="1.894"/>
+  <testcase name="addNewContactFromDataProviderPositiveTest[1](Oliver1, Kan, 1234567891, kan1@gm.com, Berlin, goalkeeper)" classname="com.ait.phonebook.tests.AddContactTests" time="1.904"/>
+  <testcase name="addNewContactFromDataProviderPositiveTest[2](Oliver2, Kan, 1234567892, kan2@gm.com, Berlin, goalkeeper)" classname="com.ait.phonebook.tests.AddContactTests" time="1.876"/>
+  <system-out><![CDATA[12:09:04.823 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addContactPositiveTest with data: []
+12:09:08.955 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addContactPositiveTest
+12:09:08.955 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+12:09:08.959 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver, Kan, 1234567890, kan@gm.com, Berlin, goalkeeper]
+12:09:22.808 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+12:09:22.810 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+12:09:22.811 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver1, Kan, 1234567891, kan1@gm.com, Berlin, goalkeeper]
+12:09:36.440 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+12:09:36.440 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+12:09:36.441 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- Start test addNewContactFromDataProviderPositiveTest with data: [Oliver2, Kan, 1234567892, kan2@gm.com, Berlin, goalkeeper]
+12:09:50.042 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFromDataProviderPositiveTest
+12:09:50.042 [Test worker] INFO  com.ait.phonebook.tests.TestBase -- ===================================================
+]]></system-out>
+  <system-err><![CDATA[console.warn: LoginRecipes: "Falling back to a synchronous message for: https://telranedu.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://telranedu.web.app."
+1701860972403	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://telranedu.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://telranedu.web.app."
+]]></system-err>
+</testsuite>
