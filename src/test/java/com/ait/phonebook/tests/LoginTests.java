@@ -17,7 +17,7 @@ public class LoginTests extends TestBase{
         //click on Login link - a:nth-child(4) - css
         app.getUser().clickOnLoginLink();
     }
-    @Test
+    @Test(priority = 1)
     public void loginPositiveTest(){
         app.getUser().fillLoginRegistrationForm(new User()
                 .setEmail(UserData.EMAIL)
@@ -28,7 +28,7 @@ public class LoginTests extends TestBase{
         Assert.assertTrue(app.getUser().isSingOutButtonPresent());
     }
 
-    @Test
+    @Test(priority = 2)
     public void loginNegativeWithoutEmailTest(){
         app.getUser().fillLoginRegistrationForm(new User().setPassword(UserData.PASSWORD));
         //click on Login button

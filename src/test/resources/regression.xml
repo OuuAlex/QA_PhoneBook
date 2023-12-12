@@ -4,14 +4,14 @@
 
     <test name="Regression" >
         <classes>
-            <class name="org.ait.phonebook.HomePageTests" />
-            <class name="org.ait.phonebook.LoginTests" >
+            <class name="com.ait.phonebook.tests.HomePageTests" />
+            <class name="com.ait.phonebook.tests.LoginTests" >
                 <methods>
                     <exclude name=".*Negative.*"/>
                 </methods>
             </class>
-            <class name="org.ait.phonebook.AddContactTests" />
-            <class name="org.ait.phonebook.RemoveContactTests" />
+            <class name="com.ait.phonebook.tests.AddContactTests" />
+            <class name="com.ait.phonebook.tests.RemoveContactTests" />
         </classes>
     </test>
 

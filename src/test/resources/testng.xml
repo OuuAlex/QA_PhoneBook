@@ -4,8 +4,8 @@
 
     <test name="User" >
         <classes>
-            <class name="org.ait.phonebook.CreateAccountTests" />
-            <class name="org.ait.phonebook.LoginTests" />
+            <class name="com.ait.phonebook.tests.LoginTests" />
+            <class name="com.ait.phonebook.tests.CreateAccountTests" />
         </classes>
     </test>
 
